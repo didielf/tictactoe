@@ -1,0 +1,6 @@
+﻿  TicTacToeLab.cpp
+c:\users\didiel fundora\documents\school\cecs 130 intro to programming\tictactoelab\tictactoelab\tictactoelab.cpp(131): warning C4018: '<': signed/unsigned mismatch
+c:\users\didiel fundora\documents\school\cecs 130 intro to programming\tictactoelab\tictactoelab\tictactoelab.cpp(150): warning C4018: '<': signed/unsigned mismatch
+c:\users\didiel fundora\documents\school\cecs 130 intro to programming\tictactoelab\tictactoelab\tictactoelab.cpp(162): warning C4018: '<': signed/unsigned mismatch
+c:\users\didiel fundora\documents\school\cecs 130 intro to programming\tictactoelab\tictactoelab\tictactoelab.cpp(227): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TicTacToeLab.vcxproj -> C:\Users\Didiel Fundora\Documents\School\CECS 130 Intro to Programming\TicTacToeLab\Debug\TicTacToeLab.exe
